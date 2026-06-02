@@ -1,13 +1,19 @@
-# Day 2 - Understanding Data Types and How to Manipulate Strings
+# Day 2 — Understanding Data Types & String Manipulation
 
-## Exercise
+## What I Learned
+- Python Primitive Data Types (int, float, string, boolean)
+- Type Errors and why they happen
+- Type Conversion — int(), float(), str()
+- Mathematical Operations in Python
+- Number Manipulation & F-Strings
 
-- https://repl.it/@ranit-manik/day-2-1-exercise#main.py
-- https://repl.it/@ranit-manik/day-2-2-exercise#main.py
-- https://repl.it/@ranit-manik/day-2-3-exercise#main.py
+## Project Built
+**Tip Calculator** — Takes bill amount, tip percentage and number
+of people, calculates how much each person should pay.
 
-## Tip Calculator
+## My Code
+- [Day-2.py](./Day-2.py)
 
-![tip_calculator-min](https://github.com/RanitManik/100-days-of-python/assets/138437760/f87a2635-139e-4b36-ab96-02fa771862a8)
-
-- https://repl.it/@ranit-manik/tip-calculator-start#main.py
+## Key Takeaway
+One Type Error taught me more than an hour of watching videos.
+Python is strict about data types on purpose — and that's a feature.
