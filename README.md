@@ -33,7 +33,7 @@ This summer I challenged myself to learn Python seriously — one day at a time,
 ## 📈 Overall Progress
 
 ```
-Day 02 ████░░░░░░░░░░░░░░░░░░░░░░░░░░  2 / 100
+Day 03 ██████░░░░░░░░░░░░░░░░░░░░░░░░  3 / 100
 ```
 
 > ✅ = Done &nbsp;|&nbsp; 🔄 = In Progress &nbsp;|&nbsp; ⬜ = Upcoming
@@ -47,7 +47,7 @@ Day 02 ████░░░░░░░░░░░░░░░░░░░░�
 |-----|------|-------|---------------|--------|---------------|
 | 01 | Jun 1 | Variables & Data Types | Band Name Generator | ✅ Done | [View Post](https://www.linkedin.com/in/varshith-venkata-aa8488365) |
 | 02 | Jun 2 | Data Types & String Manipulation | Tip Calculator | ✅ Done | [View Post](https://www.linkedin.com/in/varshith-venkata-aa8488365) |
-| 03 | Jun 3 | Conditionals & If-Else | — | ⬜ | — |
+| 03 | Jun 3 | Control Flow & Logical Operators | Treasure Island Game | ✅ Done | [View Post](https://www.linkedin.com/in/varshith-venkata-aa8488365) |
 | 04 | Jun 4 | Randomization & Lists | — | ⬜ | — |
 | 05 | Jun 5 | Loops — For & While | — | ⬜ | — |
 | 06 | Jun 6 | Functions & Scope | — | ⬜ | — |
@@ -91,6 +91,7 @@ Day 02 ████░░░░░░░░░░░░░░░░░░░░�
 |---|---------|-----|-----------|------|
 | 1 | Band Name Generator | Day 01 | Python, input() | [day01](./day01) |
 | 2 | Tip Calculator | Day 02 | Python, float(), round(), f-strings | [day02](./day02) |
+| 3 | Treasure Island Game | Day 03 | Python, if/elif/else, ASCII art | [day03](./day03) |
 
 *More projects added daily...*
 
