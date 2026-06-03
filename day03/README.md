@@ -1,15 +1,21 @@
-# Day 3 - Control Flow and Logical Operators
+# Day 3 — Control Flow & Logical Operators
 
-## Exercise
+## What I Learned
+- If, elif, else statements
+- Logical operators — and, or, not
+- Nested if statements
+- How to control the flow of a program
+- Multi-line strings and ASCII art in Python
 
-- https://repl.it/@ranit-manik/day-3-1-exercise#main.py
-- https://repl.it/@ranit-manik/day-3-2-exercise#main.py
-- https://repl.it/@ranit-manik/day-3-3-exercise#main.py
-- https://repl.it/@ranit-manik/day-3-4-exercise#main.py
-- https://repl.it/@ranit-manik/day-3-5-exercise#main.py
+## Project Built
+**Treasure Island Game** — A text-based adventure game where
+the player makes choices at crossroads, a lake and doors
+to find the hidden treasure. Wrong choices = Game Over!
 
-## Treasure Island
+## My Code
+- [Day-3.py](./Day-3.py)
 
-![treasure_island-min](https://github.com/RanitManik/100-days-of-python/assets/138437760/f2cea0b9-7357-487f-b111-314fbbca1012)
-
-- https://repl.it/@ranit-manik/treasure-island-start#main.py
+## Key Takeaway
+Nested if statements are powerful but easy to mess up.
+Indentation in Python is not optional — it defines the
+logic. One wrong indent and the whole game breaks.
