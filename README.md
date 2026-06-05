@@ -203,12 +203,11 @@ No shortcuts. No skipping. One day at a time.
 
 > Documenting every single day publicly — building in public, learning in public.
 
-| Day | Post |
-|:---:|------|
-| Day 01 | [Band Name Generator — First ever Python program](https://www.linkedin.com/in/varshith-venkata-aa8488365) |
-| Day 02 | [Tip Calculator — Type Errors taught me more than videos](https://www.linkedin.com/in/varshith-venkata-aa8488365) |
-| Day 03 | [Treasure Island — Built my first game](https://www.linkedin.com/in/varshith-venkata-aa8488365) |
-| Day 04 | [Rock Paper Scissors — Let Python make decisions](https://www.linkedin.com/in/varshith-venkata-aa8488365) |
+| Day 01 | [Band Name Generator — First ever Python program](https://www.linkedin.com/in/varshith-venkata-aa8488365?utm_source=share_via&utm_content=profile&utm_medium=member_android) |
+| Day 02 | [Tip Calculator — Type Errors taught me more than videos](https://www.linkedin.com/in/varshith-venkata-aa8488365?utm_source=share_via&utm_content=profile&utm_medium=member_android) |
+| Day 03 | [Treasure Island — Built my first game](https://www.linkedin.com/in/varshith-venkata-aa8488365?utm_source=share_via&utm_content=profile&utm_medium=member_android) |
+| Day 04 | [Rock Paper Scissors — Let Python make decisions](https://www.linkedin.com/in/varshith-venkata-aa8488365?utm_source=share_via&utm_content=profile&utm_medium=member_android) |
+| Day 05 | [Password Generator — One line changed everything](https://www.linkedin.com/in/varshith-venkata-aa8488365?utm_source=share_via&utm_content=profile&utm_medium=member_android) |
 
 <br/>
 
