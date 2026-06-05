@@ -12,10 +12,10 @@
 
 <br/>
 
-![Progress](https://img.shields.io/badge/Current%20Day-3%20%2F%20100-brightgreen?style=for-the-badge&logo=python&logoColor=white)
+![Progress](https://img.shields.io/badge/Current%20Day-4%20%2F%20100-brightgreen?style=for-the-badge&logo=python&logoColor=white)
 ![Started](https://img.shields.io/badge/Started-June%201%2C%202025-blue?style=for-the-badge&logo=googlecalendar&logoColor=white)
-![University](https://img.shields.io/badge/Mahindra%20University-B.Tech%20AI%20Year%201-orange?style=for-the-badge&logo=academia&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Active%20%F0%9F%94%A5-red?style=for-the-badge)
+![University](https://img.shields.io/badge/Mahindra%20University-B.Tech%20AI%20Year%201-orange?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Active%20🔥-red?style=for-the-badge)
 
 </div>
 
@@ -39,7 +39,7 @@ No shortcuts. No skipping. One day at a time.
 | 🏫 **University** | Mahindra University, Hyderabad |
 | 📅 **Challenge Start** | June 1, 2025 |
 | 🎯 **21-Day Goal** | Complete Angela Yu's bootcamp + daily LinkedIn posts |
-| 📊 **Parallel Study** | Probability & Statistics MA2103 — Steve Brunton's Bootcamp |
+| 📊 **Parallel Study** | Probability & Statistics MA2103 — Steve Brunton's Bootcamp (44 videos) |
 | 💼 **Daily Updates** | [Follow on LinkedIn](https://www.linkedin.com/in/varshith-venkata-aa8488365) |
 
 <br/>
@@ -54,7 +54,7 @@ No shortcuts. No skipping. One day at a time.
 ╔══════════════════════════════════════════════════════════╗
 ║           PYTHON CHALLENGE PROGRESS                      ║
 ║                                                          ║
-║   Day 03  ██████░░░░░░░░░░░░░░░░░░░░░░░░░░░░   3 / 100  ║
+║   Day 04  ████████░░░░░░░░░░░░░░░░░░░░░░░░░░   4 / 100  ║
 ║                                                          ║
 ║   ✅ Completed   🔄 In Progress   ⬜ Upcoming            ║
 ╚══════════════════════════════════════════════════════════╝
@@ -75,7 +75,7 @@ No shortcuts. No skipping. One day at a time.
 | **01** | Jun 1 | Variables & Data Types | Band Name Generator | ✅ | [🔗](https://www.linkedin.com/in/varshith-venkata-aa8488365) |
 | **02** | Jun 2 | Data Types & String Manipulation | Tip Calculator | ✅ | [🔗](https://www.linkedin.com/in/varshith-venkata-aa8488365) |
 | **03** | Jun 3 | Control Flow & Logical Operators | Treasure Island Game | ✅ | [🔗](https://www.linkedin.com/in/varshith-venkata-aa8488365) |
-| **04** | Jun 4 | Randomization & Lists | — | ⬜ | — |
+| **04** | Jun 4 | Randomisation & Lists | Rock Paper Scissors | ✅ | [🔗](https://www.linkedin.com/in/varshith-venkata-aa8488365) |
 | **05** | Jun 5 | Loops — For & While | — | ⬜ | — |
 | **06** | Jun 6 | Functions & Scope | — | ⬜ | — |
 | **07** | Jun 7 | Mini Project | Calculator | ⬜ | — |
@@ -127,6 +127,7 @@ No shortcuts. No skipping. One day at a time.
 | 1 | 🎸 Band Name Generator | Day 01 | Variables, input(), string concatenation | [→](./day01) |
 | 2 | 🧮 Tip Calculator | Day 02 | float(), int(), round(), f-strings | [→](./day02) |
 | 3 | 🏝️ Treasure Island Game | Day 03 | if/elif/else, nested conditions, ASCII art | [→](./day03) |
+| 4 | 🎮 Rock Paper Scissors | Day 04 | random, lists, ASCII art, input validation | [→](./day04) |
 
 *New project added every day...*
 
@@ -144,8 +145,6 @@ No shortcuts. No skipping. One day at a time.
 | [HackerRank — Python Domain](https://www.hackerrank.com/domains/python) | 💻 Practice | Daily problems — topic matched to course |
 | [Python Tutor](https://pythontutor.com) | 🔍 Tool | Visualize code execution step by step |
 | [Official Python Docs](https://docs.python.org/3/) | 📖 Reference | Built-in functions & standard library |
-
-<br/>
 
 ### 📊 Probability & Statistics *(MA2103 — Sem 3 Prep)*
 
@@ -208,6 +207,7 @@ No shortcuts. No skipping. One day at a time.
 | Day 01 | [Band Name Generator — First ever Python program](https://www.linkedin.com/in/varshith-venkata-aa8488365) |
 | Day 02 | [Tip Calculator — Type Errors taught me more than videos](https://www.linkedin.com/in/varshith-venkata-aa8488365) |
 | Day 03 | [Treasure Island — Built my first game](https://www.linkedin.com/in/varshith-venkata-aa8488365) |
+| Day 04 | [Rock Paper Scissors — Let Python make decisions](https://www.linkedin.com/in/varshith-venkata-aa8488365) |
 
 <br/>
 
