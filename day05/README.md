@@ -1,14 +1,23 @@
-# Day 5
+# Day 5 — Loops & Randomisation
 
-## Exercise
+## What I Learned
+- For loops with range()
+- random.choice() to pick random items from a list
+- list.append() to build lists dynamically
+- random.shuffle() to randomise list order
+- Joining list items into a string
+- Easy vs Hard level logic — same problem, better solution
 
-- https://repl.it/@Ranit-Manik/day-5-1-exercise#main.py
-- https://repl.it/@Ranit-Manik/day-5-2-exercise#main.py
-- https://repl.it/@Ranit-Manik/day-5-3-exercise#main.py
-- https://repl.it/@Ranit-Manik/day-5-4-exercise#main.py
+## Project Built
+**Password Generator** — Takes user input for number of
+letters, symbols and numbers. Generates a secure randomised
+password using loops, random.choice() and random.shuffle().
+Built two versions — easy (ordered) and hard (shuffled).
 
-## Password Generator
+## My Code
+- [Day-5.py](./Day-5.py)
 
-![password_generator-min](https://github.com/RanitManik/100-days-of-python/assets/138437760/9f857c9b-9104-4e7a-b8a6-aa9301ae16b6)
-
-- https://repl.it/@Ranit-Manik/password-generator-start#main.py
+## Key Takeaway
+The easy version works. But the hard version is actually
+secure. Same output, completely different approach.
+That's what loops + shuffle taught me today.
