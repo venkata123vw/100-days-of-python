@@ -1,13 +1,23 @@
-# Day 4 - Randomisation and Python Lists
+# Day 4 — Randomisation & Lists
 
-## Exercise
+## What I Learned
+- Importing modules — `import random`
+- Using `random.randint()` to generate random numbers
+- Storing multi-line ASCII art inside lists
+- Accessing list items using index `list[index]`
+- Combining lists with if/else logic for game decisions
+- Validating user input with conditions
 
-- https://repl.it/@ranit-manik/day-4-1-exercise#main.py
-- https://repl.it/@ranit-manik/day-4-2-exercise#main.py
-- https://repl.it/@ranit-manik/day-4-3-exercise#main.py
+## Project Built
+**Rock Paper Scissors Game** — A fully working Rock Paper Scissors
+game where the computer randomly picks its move using
+`random.randint()`. ASCII art displays both the player's
+and computer's choices visually.
 
-## Rock Paper Scissors
+## My Code
+- [Day-4.py](./Day-4.py)
 
-![rock_paper_scissors](https://github.com/RanitManik/100-days-of-python/assets/138437760/1f0093d7-78e2-46ad-993d-707c66864ad8)
-
-- https://repl.it/@ranit-manik/rock-paper-scissors-start#main.py
+## Key Takeaway
+A list doesn't just hold numbers or words.
+It can hold entire multi-line drawings.
+That one realisation changed how I think about lists.
