@@ -12,7 +12,7 @@
 
 <br/>
 
-![Progress](https://img.shields.io/badge/Current%20Day-5%20%2F%20100-brightgreen?style=for-the-badge&logo=python&logoColor=white)
+![Progress](https://img.shields.io/badge/Current%20Day-6%20%2F%20100-brightgreen?style=for-the-badge&logo=python&logoColor=white)
 ![Started](https://img.shields.io/badge/Started-June%201%2C%202025-blue?style=for-the-badge&logo=googlecalendar&logoColor=white)
 ![University](https://img.shields.io/badge/Mahindra%20University-B.Tech%20AI%20Year%201-orange?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active%20🔥-red?style=for-the-badge)
@@ -54,7 +54,7 @@ No shortcuts. No skipping. One day at a time.
 ╔══════════════════════════════════════════════════════════╗
 ║           PYTHON CHALLENGE PROGRESS                      ║
 ║                                                          ║
-║   Day 05  ██████████░░░░░░░░░░░░░░░░░░░░   5 / 100       ║
+║   Day 06  ████████████░░░░░░░░░░░░░░░░░░   6 / 100       ║
 ║                                                          ║
 ║   ✅ Completed   🔄 In Progress   ⬜ Upcoming           ║
 ╚══════════════════════════════════════════════════════════╝
@@ -77,7 +77,7 @@ No shortcuts. No skipping. One day at a time.
 | **03** | Jun 3 | Control Flow & Logical Operators | Treasure Island Game | ✅ | [🔗](https://www.linkedin.com/in/varshith-venkata-aa8488365) |
 | **04** | Jun 4 | Randomisation & Lists | Rock Paper Scissors | ✅ | [🔗](https://www.linkedin.com/in/varshith-venkata-aa8488365) |
 | **05** | Jun 5 | Loops & Randomisation | Password Generator | ✅ | [🔗](https://www.linkedin.com/in/varshith-venkata-aa8488365) |
-| **06** | Jun 6 | Functions & Scope | — | ⬜ | — |
+| **06** | Jun 6 | Functions & Loops | Reeborg's World | ✅ | [🔗](https://www.linkedin.com/in/varshith-venkata-aa8488365) |
 | **07** | Jun 7 | Mini Project | Calculator | ⬜ | — |
 
 <br/>
@@ -129,6 +129,7 @@ No shortcuts. No skipping. One day at a time.
 | 3 | 🏝️ Treasure Island Game | Day 03 | if/elif/else, nested conditions, ASCII art | [→](./day03) |
 | 4 | 🎮 Rock Paper Scissors | Day 04 | random, lists, ASCII art, input validation | [→](./day04) |
 | 5 | 🔐 Password Generator | Day 05 | loops, random.choice(), shuffle(), append() | [→](./day05) |
+| 6 | 🤖 Reeborg's World | Day 06 | def, while, for, range(), if/elif/else | [→](./day06) |
 
 *New project added every day...*
 
