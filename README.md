@@ -12,7 +12,7 @@
 
 <br/>
 
-![Progress](https://img.shields.io/badge/Current%20Day-9%20%2F%20100-brightgreen?style=for-the-badge&logo=python&logoColor=white)
+![Progress](https://img.shields.io/badge/Current%20Day-10%20%2F%20100-brightgreen?style=for-the-badge&logo=python&logoColor=white)
 ![Started](https://img.shields.io/badge/Started-June%201%2C%202025-blue?style=for-the-badge&logo=googlecalendar&logoColor=white)
 ![University](https://img.shields.io/badge/Mahindra%20University-B.Tech%20AI%20Year%201-orange?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active%20🔥-red?style=for-the-badge)
@@ -53,7 +53,7 @@ No shortcuts. No skipping. One day at a time.
 ╔══════════════════════════════════════════════════════════╗
 ║           PYTHON CHALLENGE PROGRESS                      ║
 ║                                                          ║
-║   Day 09  ██████████████████░░░░░░░░░░░░   9 / 100      ║
+║   Day 10  ████████████████████░░░░░░░░░░  10 / 100      ║
 ║                                                          ║
 ║   ✅ Completed   🔄 In Progress   ⬜ Upcoming            ║
 ╚══════════════════════════════════════════════════════════╝
@@ -91,9 +91,9 @@ No shortcuts. No skipping. One day at a time.
 |:---:|------|-------|---------|:------:|:----:|
 | **08** | Jun 8 | Functions & Caesar Cipher | Caesar Cipher | ✅ | [🔗](https://www.linkedin.com/in/varshith-venkata-aa8488365) |
 | **09** | Jun 9 | Dictionaries & Nesting | Blind Auction | ✅ | [🔗](https://www.linkedin.com/in/varshith-venkata-aa8488365) |
-| **10** | Jun 10 | Functions — Return Values | Calculator | ⬜ | — |
-| **11** | Jun 11 | Scope — Local & Global | — | ⬜ | — |
-| **12** | Jun 12 | Namespaces & Scope | Number Guessing Game | ⬜ | — |
+| **10** | Jun 10 | Functions with Outputs | Calculator | ✅ | [🔗](https://www.linkedin.com/in/varshith-venkata-aa8488365) |
+| **11** | Jun 11 | Scope — Local & Global | Number Guessing Game | ⬜ | — |
+| **12** | Jun 12 | Namespaces & Scope | — | ⬜ | — |
 | **13** | Jun 13 | Debugging — Find & Fix | — | ⬜ | — |
 | **14** | Jun 14 | Higher Order Functions | — | ⬜ | — |
 
@@ -132,6 +132,7 @@ No shortcuts. No skipping. One day at a time.
 | 7 | 🪤 Hangman Game | Day 07 | functions, for loops, lists, while, ASCII art | [→](./day07) |
 | 8 | 🔑 Caesar Cipher | Day 08 | functions, modulo %, for loops, parameters | [→](./day08) |
 | 9 | 🔨 Blind Auction | Day 09 | dictionaries, while loop, functions, f-strings | [→](./day09) |
+| 10 | 🖩 Calculator | Day 10 | functions, return, dict storing functions, recursion | [→](./day10) |
 
 *New project added every day...*
 
@@ -183,6 +184,7 @@ No shortcuts. No skipping. One day at a time.
 | Day 07 | [Hangman Game — Breaking big problems into small functions](https://www.linkedin.com/in/varshith-venkata-aa8488365) |
 | Day 08 | [Caesar Cipher — Modulo arithmetic is everywhere](https://www.linkedin.com/in/varshith-venkata-aa8488365) |
 | Day 09 | [Blind Auction — I wrote 90% before seeing the solution](https://www.linkedin.com/in/varshith-venkata-aa8488365) |
+| Day 10 | [Calculator — A dictionary storing functions changed everything](https://www.linkedin.com/in/varshith-venkata-aa8488365) |
 
 <br/>
 
