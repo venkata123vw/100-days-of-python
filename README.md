@@ -12,7 +12,7 @@
 
 <br/>
 
-![Progress](https://img.shields.io/badge/Current%20Day-10%20%2F%20100-brightgreen?style=for-the-badge&logo=python&logoColor=white)
+![Progress](https://img.shields.io/badge/Current%20Day-12%20%2F%20100-brightgreen?style=for-the-badge&logo=python&logoColor=white)
 ![Started](https://img.shields.io/badge/Started-June%201%2C%202025-blue?style=for-the-badge&logo=googlecalendar&logoColor=white)
 ![University](https://img.shields.io/badge/Mahindra%20University-B.Tech%20AI%20Year%201-orange?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active%20🔥-red?style=for-the-badge)
@@ -53,7 +53,7 @@ No shortcuts. No skipping. One day at a time.
 ╔══════════════════════════════════════════════════════════╗
 ║           PYTHON CHALLENGE PROGRESS                      ║
 ║                                                          ║
-║   Day 10  ████████████████████░░░░░░░░░░  10 / 100      ║
+║   Day 12  ████████████████████████░░░░░░  12 / 100      ║
 ║                                                          ║
 ║   ✅ Completed   🔄 In Progress   ⬜ Upcoming            ║
 ╚══════════════════════════════════════════════════════════╝
@@ -85,16 +85,16 @@ No shortcuts. No skipping. One day at a time.
 
 ## 🗓️ Week 2 — Intermediate Python *(Jun 8–14)*
 
-> Going deeper. Dictionaries, OOP, file handling, debugging.
+> Going deeper. Dictionaries, scope, OOP basics.
 
 | Day | Date | Topic | Project | Status | Post |
 |:---:|------|-------|---------|:------:|:----:|
 | **08** | Jun 8 | Functions & Caesar Cipher | Caesar Cipher | ✅ | [🔗](https://www.linkedin.com/in/varshith-venkata-aa8488365) |
 | **09** | Jun 9 | Dictionaries & Nesting | Blind Auction | ✅ | [🔗](https://www.linkedin.com/in/varshith-venkata-aa8488365) |
 | **10** | Jun 10 | Functions with Outputs | Calculator | ✅ | [🔗](https://www.linkedin.com/in/varshith-venkata-aa8488365) |
-| **11** | Jun 11 | Scope — Local & Global | Number Guessing Game | ⬜ | — |
-| **12** | Jun 12 | Namespaces & Scope | — | ⬜ | — |
-| **13** | Jun 13 | Debugging — Find & Fix | — | ⬜ | — |
+| **11** | Jun 11 | Blackjack Capstone | Blackjack Game | ✅ | [🔗](https://www.linkedin.com/in/varshith-venkata-aa8488365) |
+| **12** | Jun 12 | Scope & Number Game | Number Guessing Game | ✅ | [🔗](https://www.linkedin.com/in/varshith-venkata-aa8488365) |
+| **13** | Jun 13 | Debugging | — | ⬜ | — |
 | **14** | Jun 14 | Higher Order Functions | — | ⬜ | — |
 
 <br/>
@@ -133,6 +133,8 @@ No shortcuts. No skipping. One day at a time.
 | 8 | 🔑 Caesar Cipher | Day 08 | functions, modulo %, for loops, parameters | [→](./day08) |
 | 9 | 🔨 Blind Auction | Day 09 | dictionaries, while loop, functions, f-strings | [→](./day09) |
 | 10 | 🖩 Calculator | Day 10 | functions, return, dict storing functions, recursion | [→](./day10) |
+| 11 | 🃏 Blackjack Game | Day 11 | functions, random, list operations, edge cases | [→](./day11) |
+| 12 | 🎯 Number Guessing Game | Day 12 | scope, functions, return values, while loop | [→](./day12) |
 
 *New project added every day...*
 
@@ -185,6 +187,8 @@ No shortcuts. No skipping. One day at a time.
 | Day 08 | [Caesar Cipher — Modulo arithmetic is everywhere](https://www.linkedin.com/in/varshith-venkata-aa8488365) |
 | Day 09 | [Blind Auction — I wrote 90% before seeing the solution](https://www.linkedin.com/in/varshith-venkata-aa8488365) |
 | Day 10 | [Calculator — A dictionary storing functions changed everything](https://www.linkedin.com/in/varshith-venkata-aa8488365) |
+| Day 11 | [Blackjack — A full card game in Python](https://www.linkedin.com/in/varshith-venkata-aa8488365) |
+| Day 12 | [Number Guessing Game — Scope finally clicked](https://www.linkedin.com/in/varshith-venkata-aa8488365) |
 
 <br/>
 
@@ -193,8 +197,6 @@ No shortcuts. No skipping. One day at a time.
 <div align="center">
 
 ### 🤝 Let's Connect & Grow Together
-
-If you're on a similar learning journey — let's connect!
 
 [![LinkedIn](https://img.shields.io/badge/Follow%20my%20journey-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varshith-venkata-aa8488365)
 [![GitHub](https://img.shields.io/badge/Star%20this%20repo-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/venkata123vw/100-days-of-python)
