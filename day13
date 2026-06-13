@@ -1,1 +1,21 @@
+# Day 13 — Debugging: How to Find and Fix Errors
 
+## What I Learned
+- Describe the problem out loud before touching the code
+- Reproduce the bug consistently before trying to fix it
+- Play computer — read code line by line like a machine
+- Use print() statements to check variable values mid-execution
+- Use VS Code debugger — set breakpoints, step through code
+- Watch variables change in real time using the debugger panel
+- Most bugs are never where you first think they are
+
+## Exercises Completed
+- Debugging Odd or Even
+- Debugging Leap Year
+- Debugging FizzBuzz
+
+## Key Takeaway
+Debugging is not about fixing code.
+It's about understanding what the code is actually doing
+versus what you think it's doing.
+That gap is where every bug lives.
