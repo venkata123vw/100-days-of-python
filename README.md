@@ -12,7 +12,7 @@
 
 <br/>
 
-![Progress](https://img.shields.io/badge/Current%20Day-12%20%2F%20100-brightgreen?style=for-the-badge&logo=python&logoColor=white)
+![Progress](https://img.shields.io/badge/Current%20Day-13%20%2F%20100-brightgreen?style=for-the-badge&logo=python&logoColor=white)
 ![Started](https://img.shields.io/badge/Started-June%201%2C%202025-blue?style=for-the-badge&logo=googlecalendar&logoColor=white)
 ![University](https://img.shields.io/badge/Mahindra%20University-B.Tech%20AI%20Year%201-orange?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active%20🔥-red?style=for-the-badge)
@@ -53,7 +53,7 @@ No shortcuts. No skipping. One day at a time.
 ╔══════════════════════════════════════════════════════════╗
 ║           PYTHON CHALLENGE PROGRESS                      ║
 ║                                                          ║
-║   Day 12  ████████████████████████░░░░░░  12 / 100      ║
+║   Day 13  ██████████████████████████░░░░  13 / 100      ║
 ║                                                          ║
 ║   ✅ Completed   🔄 In Progress   ⬜ Upcoming            ║
 ╚══════════════════════════════════════════════════════════╝
@@ -85,7 +85,7 @@ No shortcuts. No skipping. One day at a time.
 
 ## 🗓️ Week 2 — Intermediate Python *(Jun 8–14)*
 
-> Going deeper. Dictionaries, scope, OOP basics.
+> Going deeper. Dictionaries, scope, debugging, OOP basics.
 
 | Day | Date | Topic | Project | Status | Post |
 |:---:|------|-------|---------|:------:|:----:|
@@ -94,7 +94,7 @@ No shortcuts. No skipping. One day at a time.
 | **10** | Jun 10 | Functions with Outputs | Calculator | ✅ | [🔗](https://www.linkedin.com/in/varshith-venkata-aa8488365) |
 | **11** | Jun 11 | Blackjack Capstone | Blackjack Game | ✅ | [🔗](https://www.linkedin.com/in/varshith-venkata-aa8488365) |
 | **12** | Jun 12 | Scope & Number Game | Number Guessing Game | ✅ | [🔗](https://www.linkedin.com/in/varshith-venkata-aa8488365) |
-| **13** | Jun 13 | Debugging | — | ⬜ | — |
+| **13** | Jun 13 | Debugging | Odd/Even, Leap Year, FizzBuzz | ✅ | [🔗](https://www.linkedin.com/in/varshith-venkata-aa8488365) |
 | **14** | Jun 14 | Higher Order Functions | — | ⬜ | — |
 
 <br/>
@@ -103,7 +103,7 @@ No shortcuts. No skipping. One day at a time.
 
 ## 🗓️ Week 3 — Python in the Real World *(Jun 15–21)*
 
-> OOP, APIs, web scraping, data science tools.
+> OOP, Turtle Graphics, Files, APIs.
 
 | Day | Date | Topic | Project | Status | Post |
 |:---:|------|-------|---------|:------:|:----:|
@@ -135,6 +135,7 @@ No shortcuts. No skipping. One day at a time.
 | 10 | 🖩 Calculator | Day 10 | functions, return, dict storing functions, recursion | [→](./day10) |
 | 11 | 🃏 Blackjack Game | Day 11 | functions, random, list operations, edge cases | [→](./day11) |
 | 12 | 🎯 Number Guessing Game | Day 12 | scope, functions, return values, while loop | [→](./day12) |
+| 13 | 🐛 Debugging Exercises | Day 13 | debugging, print(), VS Code debugger, breakpoints | [→](./day13) |
 
 *New project added every day...*
 
@@ -188,7 +189,8 @@ No shortcuts. No skipping. One day at a time.
 | Day 09 | [Blind Auction — I wrote 90% before seeing the solution](https://www.linkedin.com/in/varshith-venkata-aa8488365) |
 | Day 10 | [Calculator — A dictionary storing functions changed everything](https://www.linkedin.com/in/varshith-venkata-aa8488365) |
 | Day 11 | [Blackjack — A full card game in Python](https://www.linkedin.com/in/varshith-venkata-aa8488365) |
-| Day 12 | [Number Guessing Game — Scope finally clicked](https://www.linkedin.com/in/varshith-venkata-aa8488365) |
+| Day 12 | [Number Guessing Game — Same code, better structure](https://www.linkedin.com/in/varshith-venkata-aa8488365) |
+| Day 13 | [Debugging — The most underrated skill in programming](https://www.linkedin.com/in/varshith-venkata-aa8488365) |
 
 <br/>
 
