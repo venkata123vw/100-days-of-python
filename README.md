@@ -12,7 +12,7 @@
 
 <br/>
 
-![Progress](https://img.shields.io/badge/Current%20Day-14%20%2F%20100-brightgreen?style=for-the-badge&logo=python&logoColor=white)
+![Progress](https://img.shields.io/badge/Current%20Day-15%20%2F%20100-brightgreen?style=for-the-badge&logo=python&logoColor=white)
 ![Started](https://img.shields.io/badge/Started-June%201%2C%202025-blue?style=for-the-badge&logo=googlecalendar&logoColor=white)
 ![University](https://img.shields.io/badge/Mahindra%20University-B.Tech%20AI%20Year%201-orange?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active%20🔥-red?style=for-the-badge)
@@ -53,7 +53,7 @@ No shortcuts. No skipping. One day at a time.
 ╔══════════════════════════════════════════════════════════╗
 ║           PYTHON CHALLENGE PROGRESS                      ║
 ║                                                          ║
-║   ║   Day 14  ████████████████████████████░░  14 / 100   ║
+║   Day 15 ██████████████████████████████░ 15 / 100        ║
 ║                                                          ║
 ║   ✅ Completed   🔄 In Progress   ⬜ Upcoming           ║
 ╚══════════════════════════════════════════════════════════╝
@@ -107,7 +107,7 @@ No shortcuts. No skipping. One day at a time.
 
 | Day | Date | Topic | Project | Status | Post |
 |:---:|------|-------|---------|:------:|:----:|
-| **15** | Jun 15 | OOP — Classes & Objects | — | ⬜ | — |
+| **15** | Jun 15 | OOP — Classes & Objects | Coffee Machine Project | ✅ | [🔗](https://www.linkedin.com/in/varshith-venkata-aa8488365) |
 | **16** | Jun 16 | OOP — Inheritance | — | ⬜ | — |
 | **17** | Jun 17 | OOP — Encapsulation | — | ⬜ | — |
 | **18** | Jun 18 | Turtle Graphics | — | ⬜ | — |
@@ -137,6 +137,7 @@ No shortcuts. No skipping. One day at a time.
 | 12 | 🎯 Number Guessing Game | Day 12 | scope, functions, return values, while loop | [→](./day12) |
 | 13 | 🐛 Debugging Exercises | Day 13 | debugging, print(), VS Code debugger, breakpoints | [→](./day13) |
 | 14 | 📈 Higher or Lower Game | Day 14 | dictionaries, functions, loops, random module, conditional logic | [→](./day14) |
+| 15 | ☕ Coffee Machine Project | Day 15 | OOP, dictionaries, functions, loops, resource management | [→](./day15) |
 
 *New project added every day...*
 
@@ -193,6 +194,7 @@ No shortcuts. No skipping. One day at a time.
 | Day 12 | [Number Guessing Game — Same code, better structure](https://www.linkedin.com/in/varshith-venkata-aa8488365) |
 | Day 13 | [Debugging — The most underrated skill in programming](https://www.linkedin.com/in/varshith-venkata-aa8488365) |
 | Day 14 | [Higher or Lower Game — Clean logic beats clever logic](https://www.linkedin.com/in/varshith-venkata-aa8488365) |
+| Day 15 | [Coffee Machine Project — Simulating a real coffee machine using Python](https://www.linkedin.com/in/varshith-venkata-aa8488365) |
 
 <br/>
 
