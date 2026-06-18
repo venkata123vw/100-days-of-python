@@ -12,7 +12,7 @@
 
 <br/>
 
-![Progress](https://img.shields.io/badge/Current%20Day-16%20%2F%2021-brightgreen?style=for-the-badge&logo=python&logoColor=white)
+![Progress](https://img.shields.io/badge/Current%20Day-18%20%2F%2021-brightgreen?style=for-the-badge&logo=python&logoColor=white)
 ![Started](https://img.shields.io/badge/Started-June%201%2C%202025-blue?style=for-the-badge&logo=googlecalendar&logoColor=white)
 ![University](https://img.shields.io/badge/Mahindra%20University-B.Tech%20AI%20Year%201-orange?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active%20🔥-red?style=for-the-badge)
@@ -53,7 +53,7 @@ No shortcuts. No skipping. One day at a time.
 ╔══════════════════════════════════════════════════════════╗
 ║           PYTHON CHALLENGE PROGRESS                      ║
 ║                                                          ║
-║   Day 16  ███████████████████████████████████░  16 / 21  ║
+║ Day 18  ███████████████████████████████████████░  18 / 21║
 ║                                                          ║
 ║   ✅ Completed   🔄 In Progress   ⬜ Upcoming           ║
 ╚══════════════════════════════════════════════════════════╝
@@ -103,14 +103,14 @@ No shortcuts. No skipping. One day at a time.
 
 ## 🗓️ Week 3 — Python in the Real World *(Jun 15–21)*
 
-> OOP, Turtle Graphics, Files, APIs.
+> > OOP, Turtle Graphics, Creative Coding, Files, APIs.
 
 | Day | Date | Topic | Project | Status | Post |
 |:---:|------|-------|---------|:------:|:----:|
 | **15** | Jun 15 | OOP — Classes & Objects | Coffee Machine Project | ✅ | [🔗](https://www.linkedin.com/in/varshith-venkata-aa8488365) |
 | **16** | Jun 16 | OOP — Inheritance | Coffee Machine Project (OOP) | ✅ | [🔗](https://www.linkedin.com/in/varshith-venkata-aa8488365) |
-| **17** | Jun 17 | OOP — Encapsulation | — | ⬜ | — |
-| **18** | Jun 18 | Turtle Graphics | — | ⬜ | — |
+| **17** | Jun 17 | OOP — Classes, Objects & Quiz Game | Quiz Project | ✅ | [🔗](https://www.linkedin.com/in/varshith-venkata-aa8488365) |
+| **18** | Jun 18 | Turtle Graphics | Turtle Graphics Challenges | ✅ | [🔗](https://www.linkedin.com/in/varshith-venkata-aa8488365) |
 | **19** | Jun 19 | Instances, State & Higher Order | — | ⬜ | — |
 | **20** | Jun 20 | APIs & requests Library | — | ⬜ | — |
 | **21** | Jun 21 | Final Project + Reflection | — | ⬜ | — |
@@ -139,6 +139,8 @@ No shortcuts. No skipping. One day at a time.
 | 14 | 📈 Higher or Lower Game | Day 14 | dictionaries, functions, loops, random module, conditional logic | [→](./day14) |
 | 15 | ☕ Coffee Machine Project | Day 15 | OOP, dictionaries, functions, loops, resource management | [→](./day15) |
 | 16 | ☕ Coffee Machine (OOP) | Day 16 | Classes, Objects, Methods, Inheritance, Encapsulation | [→](./day16) |
+| 17 | 🧠 Quiz Project | Day 17 | Classes, Objects, Constructors, Encapsulation, OOP Design | [→](./day17) |
+| 18 | 🐢 Turtle Graphics Challenges | Day 18 | Turtle Module, Drawing Shapes, Random Walk, Spirograph | [→](./day18) |
 
 *New project added every day...*
 
@@ -197,6 +199,8 @@ No shortcuts. No skipping. One day at a time.
 | Day 14 | [Higher or Lower Game — Clean logic beats clever logic](https://www.linkedin.com/in/varshith-venkata-aa8488365) |
 | Day 15 | [Coffee Machine Project — Simulating a real coffee machine using Python](https://www.linkedin.com/in/varshith-venkata-aa8488365) |
 | Day 16 | [Coffee Machine with OOP — Understanding classes and objects in Python](https://www.linkedin.com/in/varshith-venkata-aa8488365) |
+| Day 17 | [Quiz Project — Applying OOP concepts through a quiz game](https://www.linkedin.com/in/varshith-venkata-aa8488365) |
+| Day 18 | [Turtle Graphics — Exploring Python graphics and creativity](https://www.linkedin.com/in/varshith-venkata-aa8488365) |
 
 <br/>
 
